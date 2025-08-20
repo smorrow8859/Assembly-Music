@@ -1,8 +1,10 @@
                         * = 49152
 
 ; Commodore 64 Musical Project
-; By Stephen Morrow (C) August 2025 (C64Brain)
+; By Stephen Morrow (C) 8/18/25 by C64Brain
 ; https://www.c64brain.com/
+; Compiler: CBM Prg Studio Editor (v)4.5.0
+
 ; Voice 1: Noise
 ; Voice 2: Pulse
 
