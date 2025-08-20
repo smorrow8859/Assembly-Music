@@ -18,6 +18,8 @@ SLOW_TIMER = $09
                 jsr WipeSIDSound
 start
 
+; s=54272 (when used in Basic)
+
                 lda #33
                 sta $d404        ; voice 1: control register: 54276 (s+4)
                 lda #17
